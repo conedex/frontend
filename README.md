@@ -11,7 +11,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/VenomProtocol/frontend.git
+git clone https://github.com/conedex/frontend.git
 cd frontend
 yarn install
 ```
@@ -25,7 +25,7 @@ Create a new file called .env.local in the root of the project folder.
 Add the following to the empty .env.local file:
 
 ```
-REACT_APP_CHAIN_ID="137"
+REACT_APP_CHAIN_ID="80001"
 REACT_APP_NETWORK_URL=""
 ```
 
